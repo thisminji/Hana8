@@ -1,1 +1,3 @@
-# Hana8
+# Hanaro 8
+
+## Git
